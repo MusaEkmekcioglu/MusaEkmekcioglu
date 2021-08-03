@@ -22,7 +22,7 @@
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Musa Ekmekcioglu </h1>
-<h3 align="center">WEB DEVELOPER | QA A. TESTER </h3>
+<h3 align="center">FULL STACK DEVELOPER | QA A. TESTER </h3>
 <p align="center">
 
 <a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
