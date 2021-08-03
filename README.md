@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-{
+[{
   "name": "thmsgbrt",
   "version": "1.0.0",
   "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
@@ -43,4 +43,4 @@
     "node-fetch": "^2.6.1",
     "puppeteer": "^5.1.0"
   }
-}
+}]
