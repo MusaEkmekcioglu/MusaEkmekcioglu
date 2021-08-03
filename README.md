@@ -64,18 +64,10 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 </p>
 <br/>
 
-<p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
-</p>
-
------
+---------------------------------------------------------------------------------------------------------------------------------
 
 
 
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
-<br>
 
 
 <hr>
