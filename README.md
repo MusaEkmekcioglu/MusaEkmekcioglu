@@ -3,23 +3,7 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 😄 Pronouns: She/Her/Hers 
-- 🔭 I’m currently working on: an NLP sentiment analysis project
-- :heart: My favorite language: SQL
-- 🌱 I’m currently learning: nueral nets and Mandarin
-- 👯 I’m always looking to collaborate with: scientist from any field
-- 💬 Ask me about: anything, I am happy to help
-- 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
-- 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
-- ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
+iform. 🖖
 
 <br/>
 
@@ -65,14 +49,8 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/anjcray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/DataOnATangent"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://dataonatangent.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
-<a href="mailto:dataonatangent@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
+
+
 
 
 
@@ -80,7 +58,7 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 <p>
 
 <a align= "center" href="https://github.com/dataonatangent">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true&count_private=true" />
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=MusaEkmekcioglu&theme=cobalt&show_icons=true&count_private=true" />
   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 </p>
@@ -111,15 +89,15 @@ Last edited on: 06/03/2021
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Musa Ekmekcioglu </h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 <p align="center">
-<a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+
+
+
+ 
 </p>
 </p>
 
@@ -140,9 +118,9 @@ Last edited on: 06/03/2021
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
+✔ I’m currently Developing<br>
 ✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ I’m looking to collaborate with any **Java AND Python projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
@@ -175,21 +153,21 @@ Last edited on: 06/03/2021
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MusaEkmekcioglu&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=MusaEkmekcioglu&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=MusaEkmekcioglu&theme=juicyfresh&no-bg=true" />
 
 
 -----
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
+Credits: [MusaEkmekcioglu](https://github.com/MusaEkmekcioglu)
 
-Last Edited on: 17/04/2021
+
 
 
 
