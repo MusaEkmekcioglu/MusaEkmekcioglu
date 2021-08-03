@@ -69,9 +69,7 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 </p>
 
 -----
-Credit: [Jiji C.](https://github.com/DataOnATangent)
 
-Last edited on: 06/03/2021
 
 
 <p align="center">
