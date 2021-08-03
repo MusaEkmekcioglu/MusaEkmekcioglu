@@ -88,7 +88,7 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Musa Ekmekcioglu </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h3 align="center">WEB DEVELOPER | QA A. TESTER </h3>
 <p align="center">
 
 <a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
@@ -96,16 +96,14 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
 
  
-</p>
-</p>
 
 
 
 <p align="center">
   <em>
-    Hello, I am MUSA a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of TUAF</b>, Turkey</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software  Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Full stack developer</b> and always looking to find patterns of which are hidden in the data 
+    Hello, I am MUSA a <b></b> graduate from <a href="https://uom.lk/"> <b>University Of TUAF</b>, Turkey</a>. <br>
+    <b>QA tester</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software  Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>Full stack developer</b> and always looking to find different info 
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
