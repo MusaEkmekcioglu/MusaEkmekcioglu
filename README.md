@@ -25,7 +25,7 @@
 <h3 align="center">WEB DEVELOPER | QA A. TESTER </h3>
 <p align="center">
 
-<a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true" target="blank"><img align="right" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
 
 
 
