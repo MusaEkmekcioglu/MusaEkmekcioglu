@@ -57,7 +57,7 @@
 
   <code> <img height="50" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-500x313.png"> </code>
 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+ 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
 
