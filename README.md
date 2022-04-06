@@ -35,7 +35,7 @@
 
 <p align="center">
   <em>
-    I am <b></b> graduate from <a href="https://uom.lk/"> <b>University Of TUAF</b>, from Turkey</a>. <br>
+    
     <b></b>  and a <b>Full Stack Developer<br>who is <b>obsessed</b>
     with <b>Full stack developer</b> and always looking to find different info 
   </em> 
