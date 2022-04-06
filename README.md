@@ -33,15 +33,6 @@
 
 
 
-<p align="center">
-  <em>
-    
-    <b></b>  and a <b>Full Stack Developer<br>who is <b>obsessed</b>
-    with <b>Full stack developer</b> and always looking to find different info 
-  </em> 
-  <br>
-
-</p>
 
 
 
